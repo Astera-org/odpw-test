@@ -1,0 +1,8 @@
+[PROJECTS.test]
+name = "test"
+files = ["true"]
+binType = 0
+regressionBinName = ""
+tests = ["FOO=\"bar\""]
+buildOperation = "cp /bin/true true"
+cmd = "true"
